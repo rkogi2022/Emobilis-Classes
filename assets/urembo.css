@@ -1,0 +1,16 @@
+.unordered {
+    margin-top: 2px;
+    margin-bottom: 10px;
+    margin-left: 1px;
+    border: solid 3px brown;
+}
+.unordered h3{
+    color: red;
+    text-decoration: underline;
+}
+.ordered{
+    border-bottom: 3px solid aqua;
+    border-top: 5px solid red;
+    color: #f6560a;
+    font-family: Arial;
+}
